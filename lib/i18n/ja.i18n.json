@@ -1,0 +1,29 @@
+{
+  "app_name": "Flutter Riverpod Base",
+  "error": {
+    "serverError": "サーバーエラー",
+    "unknownError": "不明なエラー"
+  },
+  "hello": "こんにちは世界",
+  "welcome": "ようこそ",
+  "network": {
+    "disconnected": "インターネットに接続できません。通信環境をご確認ください。",
+    "reconnected": "インターネットに接続されました。"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "close": "閉じる",
+    "delete": "削除",
+    "save": "保存",
+    "detail": "詳細へ",
+    "language": "言語",
+    "logout": "ログアウト",
+    "deletedAccount": "アカウント削除"
+  },
+  "bottombar": {
+    "home": "ホーム",
+    "setting": "設定"
+  }
+}
