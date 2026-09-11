@@ -1,0 +1,78 @@
+{
+  "app_name": "CAERU App",
+  "error": {
+    "serverError": "サーバーエラー",
+    "unknownError": "不明なエラー"
+  },
+  "hello": "こんにちは世界",
+  "welcome": "ようこそ",
+  "network": {
+    "disconnected": "インターネットに接続できません。通信環境をご確認ください。",
+    "connected": "インターネットに接続されました。"
+  },
+  "date": {
+    "today": "今日",
+    "yesterday": "昨日"
+  },
+  "message": {
+    "server_error": "サーバーエラーが発生しました。",
+    "connect_timeout": "接続がタイムアウトしました。",
+    "sending_timeout": "送信がタイムアウトしました。",
+    "receive_timeout": "受信がタイムアウトしました。",
+    "bad_certificate": "不正な証明書です。",
+    "bad_response": "不正なレスポンスです。",
+    "cancel_request": "リクエストがキャンセルされました。",
+    "connection_error": "接続エラーが発生しました。",
+    "unknown": "不明なエラーが発生しました。",
+    "internet_disconnected": "通信エラーが発生しました。",
+    "session_expired": "セッションの有効期限が切れました。再度ログインしてください。",
+    "retrieve_error": "情報の取得に失敗しました。",
+    "request_failed": "失敗しました。",
+    "login_failed": "ログインに失敗しました。",
+    "logout_success": "ログアウトしました。",
+    "deleted_success": "アカウントを削除しました。"
+  },
+  "validation": {
+    "required_field": "{name}は必須項目です。",
+    "field_required": "この項目は必須です。",
+    "name_required": "お名前を入力してください。",
+    "kana_format_invalid": "ふりがなはひらがな・カタカナで入力してください。",
+    "name_format_invalid": "氏名は全角漢字・ローマ字で入力してください。",
+    "email_required": "メールアドレスは必須項目です。",
+    "email_format_invalid": "正しいメールアドレスの形式で入力してください。",
+    "phone_format_invalid": "電話番号は10〜11桁で入力してください。",
+    "postal_code_format_invalid": "郵便番号は7桁で入力してください。",
+    "password_required": "パスワードは必須項目です。",
+    "password_format_invalid": "半角英数字8文字以上で、英字と数字を含めて入力してください。",
+    "password_confirm_required": "パスワード（確認用）は必須項目です。",
+    "password_confirm_not_match": "パスワードが一致しません。"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "close": "閉じる",
+    "delete": "削除",
+    "save": "保存",
+    "detail": "詳細へ",
+    "language": "言語",
+    "logout": "ログアウト",
+    "deletedAccount": "アカウント削除"
+  },
+  "app_update": {
+    "force": {
+      "title": "現在お使いのバージョンはサポート対象外です。",
+      "message": "アプリを引き続きご利用いただくには、アップデートしてください。"
+    },
+    "optional": {
+      "title": "アプリの新しいバージョンが利用可能になりました。",
+      "message": "より快適な体験と新機能へのアクセスをご希望の場合は、今すぐアップデートしてください。"
+    },
+    "skip": "スキップ",
+    "update": "アップデート"
+  },
+  "bottombar": {
+    "home": "ホーム",
+    "setting": "設定"
+  }
+}

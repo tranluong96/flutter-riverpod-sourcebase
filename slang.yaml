@@ -1,0 +1,18 @@
+base_locale: ja
+fallback_strategy: base_locale
+input_directory: lib/i18n
+input_file_pattern: .i18n.json
+output_directory: lib/i18n
+flutter_context_hint: true
+lazy: true
+translate_var: t
+enum_name: AppLocale
+class_name: Translations
+translation_class_visibility: private
+key_case: snake
+key_map_case: camel
+param_case: pascal
+string_interpolation: braces
+
+## notes run watch
+## dart run slang watch
