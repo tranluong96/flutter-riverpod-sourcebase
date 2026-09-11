@@ -1,0 +1,29 @@
+{
+  "app_name": "Flutter Riverpod Base",
+  "error": {
+    "serverError": "Server Error",
+    "unknownError": "Unknown Error"
+  },
+  "hello": "Hello world!",
+  "welcome": "Welcome",
+  "network": {
+    "disconnected": "No internet connection. Please check your network.",
+    "reconnected": "Back online."
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "delete": "Delete",
+    "save": "Save",
+    "detail": "Detail",
+    "language": "Language",
+    "logout": "Logout",
+    "deletedAccount": "Delete Account"
+  },
+  "bottombar": {
+    "home": "Home",
+    "setting": "Setting"
+  }
+}
