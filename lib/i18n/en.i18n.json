@@ -1,0 +1,78 @@
+{
+  "app_name": "Flutter Riverpod Base",
+  "error": {
+    "serverError": "Server Error",
+    "unknownError": "Unknown Error"
+  },
+  "hello": "Hello world!",
+  "welcome": "Welcome",
+  "network": {
+    "disconnected": "No internet connection.",
+    "connected": "Online."
+  },
+  "date": {
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "message": {
+    "server_error": "A server error occurred.",
+    "connect_timeout": "The connection timed out.",
+    "sending_timeout": "The request timed out.",
+    "receive_timeout": "The response timed out.",
+    "bad_certificate": "The certificate is invalid.",
+    "bad_response": "The server returned an invalid response.",
+    "cancel_request": "The request was cancelled.",
+    "connection_error": "A connection error occurred.",
+    "unknown": "An unknown error occurred.",
+    "internet_disconnected": "A network error occurred.",
+    "session_expired": "Your session has expired. Please log in again.",
+    "retrieve_error": "Failed to retrieve information.",
+    "request_failed": "The request failed.",
+    "login_failed": "Login failed.",
+    "logout_success": "Logged out successfully.",
+    "deleted_success": "Your account was deleted successfully."
+  },
+  "validation": {
+    "required_field": "{name} is required.",
+    "field_required": "This field is required.",
+    "name_required": "Please enter your name.",
+    "kana_format_invalid": "Please enter furigana using hiragana or katakana.",
+    "name_format_invalid": "Please enter your name using full-width kanji or Roman letters.",
+    "email_required": "Email address is required.",
+    "email_format_invalid": "Please enter a valid email address.",
+    "phone_format_invalid": "Please enter a 10- or 11-digit phone number.",
+    "postal_code_format_invalid": "Please enter a 7-digit postal code.",
+    "password_required": "Password is required.",
+    "password_format_invalid": "Please enter at least 8 half-width alphanumeric characters, including both letters and numbers.",
+    "password_confirm_required": "Password confirmation is required.",
+    "password_confirm_not_match": "Passwords do not match."
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "delete": "Delete",
+    "save": "Save",
+    "detail": "Detail",
+    "language": "Language",
+    "logout": "Logout",
+    "deletedAccount": "Delete Account"
+  },
+  "app_update": {
+    "force": {
+      "title": "Your current version is no longer supported.",
+      "message": "Please update to continue using the app."
+    },
+    "optional": {
+      "title": "A new version of the app is available.",
+      "message": "Update now for a better experience and access to new features."
+    },
+    "skip": "Skip",
+    "update": "Update"
+  },
+  "bottombar": {
+    "home": "Home",
+    "setting": "Setting"
+  }
+}
